@@ -1,3 +1,3 @@
-module joaolab.local/ci
+module joaomarcosad/ci
 
 go 1.14
